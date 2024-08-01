@@ -1,0 +1,24 @@
+{
+  "name": "math-operations",
+  "version": "1.0.0",
+  "description": "test npm functions with math operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidmhdez/math-operations.git"
+  },
+  "keywords": [
+    "simple",
+    "math",
+    "operations"
+  ],
+  "author": "David Morales <davidmhdez22@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidmhdez/math-operations/issues"
+  },
+  "homepage": "https://github.com/davidmhdez/math-operations#readme"
+}
